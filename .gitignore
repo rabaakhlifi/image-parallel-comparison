@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+venv/
+env/
+.venv/
+
+# Output / résultats
+output/
+results/
+
+# IDE
+.vscode/
+.idea/
